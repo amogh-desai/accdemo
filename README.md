@@ -1,2 +1,0 @@
-# accdemo
-echo "Hello"
